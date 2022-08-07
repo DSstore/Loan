@@ -1,4 +1,4 @@
-﻿Book_ID,Book_Title,Borrower_ID,Date_of_Issue,Date_of_Return,Status,Reservation_information,checkout_month,Number_of_checkouts,Rating_for_books(1-5)
+﻿Book_ID,Book_Title,Borrower_ID,Date_of_Issue,Date_of_Return,Status,Reservation_information,checkout_month,Number_of_checkouts,Rating_for_books
 1,Classical Mythology,AM329,21/6/2022,21/7/2022,Unavailable,Y,6,40,5
 2,Clara Callan,AS443,11/2/2022,21/2/2022,Available,N,2,39,3
 3,Decision in Normandy,BH149,12/5/2022,1/6/2022,Available,N,5,34,3
