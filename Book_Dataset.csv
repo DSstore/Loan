@@ -1,8 +1,8 @@
 ﻿Book_ID,Book_Title,Borrower_ID,Date_of_Issue,Date_of_Return,Status,Reservation_information,checkout_month,Number_of_checkouts,Rating_for_books
-1,Classical Mythology,AM329,21/6/2022,21/7/2022,Unavailable,Y,6,49,5
+1,Classical Mythology,AM329,21/6/2022,21/7/2022,Available,Y,6,49,5
 2,Clara Callan,AS443,11/2/2022,21/2/2022,Available,N,2,12,3
 3,Decision in Normandy,BH149,12/5/2022,1/6/2022,Available,N,5,24,3
-4,The Mummies of Urumchi,BM856,25/3/2022,15/4/2022,Available,N,3,33,2
+4,The Mummies of Urumchi,BM856,25/3/2022,14/4/2022,Available,N,3,33,2
 5,The Kitchen God's Wife,BM856,25/3/2022,15/4/2022,Available,N,3,6,4
 6,PLEADING GUILTY,BT132,10/7/2022,21/7/2022,Available,N,7,41,4
 7,Where You'll Find Me: And Other Stories,CF829,1/8/2022,21/8/2022,Unavailable,N,8,19,4
